@@ -1,0 +1,10 @@
+# Swift/Xcode
+.DS_Store
+.build/
+Packages
+*.xcodeproj
+*.xcworkspace
+.swiftpm
+
+# Test Data
+test_data.parquet
