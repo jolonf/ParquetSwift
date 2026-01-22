@@ -23,7 +23,7 @@ Add this package to your `Package.swift` dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/jolonf/ParquetSwift.git", from: "1.0.0")
+    .package(url: "https://github.com/jolonf/ParquetSwift.git", from: "0.0.1")
 ]
 ```
 
